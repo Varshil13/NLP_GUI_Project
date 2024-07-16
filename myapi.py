@@ -5,7 +5,7 @@ class API:
   def __init__(self):
 
       self.headers = {
-        "apikey": "nnjORtMGPH6WlKmIVsly3HKjc3Ezdzuz"
+        "apikey": "your api key here!"
       }
 
   def sentiment_analysis(self,text):
