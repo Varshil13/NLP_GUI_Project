@@ -1,0 +1,2 @@
+IF YOU WANT TO JUS TEST THE APPLICATION , YOU CAN USE MY API KEY - "nnjORtMGPH6WlKmIVsly3HKjc3Ezdzuz".
+Keep in mind that my api key is based on a free subscription model and can only hit API limited times.
